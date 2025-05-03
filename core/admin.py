@@ -6,3 +6,7 @@ admin.site.register(Marca)
 from .models import Categoria
 
 admin.site.register(Categoria)
+
+from .models import Cor
+
+admin.site.register(Cor)
